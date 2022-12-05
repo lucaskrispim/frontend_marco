@@ -70,6 +70,7 @@ const Login = () => {
                     </div>
 
 
+
                     <div className="d-flex justify-content-between align-items-top mb-4">
                       <div className="form-check">
                         <input className="form-check-input" type="checkbox" value="" id="remember" />
